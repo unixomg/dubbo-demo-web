@@ -16,7 +16,7 @@ public class BjAction {
 	public String say(String name) {
 		System.out.println("HelloAction接收到请求:"+name);
 		String str="<h1>这是Dubbo 消费者端(tomcat)</h1>";
-		str+="<h2>这里是北京站的页面</h2>";
+		str+="<h2>这里是天地汇北京站的页面</h2>";
 		str+=helloService.hello(name);
 		System.out.println("HelloService返回到结果:"+str);
 		return str;
