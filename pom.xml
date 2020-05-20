@@ -19,5 +19,4 @@
     <module>dubbo-api</module>
 	<module>dubbo-client</module>
   </modules>
-	
 </project>
