@@ -1,4 +1,4 @@
-package com.bx.dubbotest.api;
+package com.od.dubbotest.api;
 
 
 public interface HelloService {
