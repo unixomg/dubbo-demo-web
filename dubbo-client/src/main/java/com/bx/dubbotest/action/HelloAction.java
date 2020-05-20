@@ -11,7 +11,7 @@ import java.util.Date;
 
 @RestController
 @RequestMapping(value="/hello")
-public class helloAction {
+public class HelloAction  {
 	
 	@Reference HelloService helloService;
 	
