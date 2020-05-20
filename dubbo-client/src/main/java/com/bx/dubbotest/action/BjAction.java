@@ -1,10 +1,10 @@
-package com.od.dubbotest.action;
+package com.bx.dubbotest.action;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.od.dubbotest.api.HelloService;
+import com.bx.dubbotest.api.HelloService;
 
 @RestController
 @RequestMapping(value="/bj")

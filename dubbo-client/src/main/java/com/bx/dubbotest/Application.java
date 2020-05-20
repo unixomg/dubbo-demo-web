@@ -1,12 +1,12 @@
-package com.od.dubbotest;
+package com.bx.dubbotest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-import com.od.dubbotest.action.HelloAction;
-import com.od.dubbotest.action.ShAction;
-import com.od.dubbotest.action.BjAction;
+import com.bx.dubbotest.action.HelloAction;
+import com.bx.dubbotest.action.ShAction;
+import com.bx.dubbotest.action.BjAction;
 
 @SpringBootApplication
 public class Application {
