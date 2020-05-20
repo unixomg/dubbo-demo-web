@@ -1,9 +1,9 @@
-package com.od.dubbotest;
+package com.bx.dubbotest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
-import com.od.dubbotest.Application;
+import com.bx.dubbotest.Application;
 
 public class ServletInitializer extends SpringBootServletInitializer {
 
