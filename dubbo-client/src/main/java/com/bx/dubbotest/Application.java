@@ -8,8 +8,8 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.annotation.ImportResource;
 
 import com.bx.dubbotest.action.HelloAction;
-import com.bx.dubbotest.action.ShAction;
 import com.bx.dubbotest.action.BjAction;
+import com.bx.dubbotest.action.ShAction;
 
 @ImportResource(value={"classpath*:spring-config.xml"})
 @SpringBootApplication
